@@ -1,0 +1,57 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.wrapper{
+    background-color: lightgreen;
+    width: 900px;
+    height: 475px;
+    padding: 20px;
+}
+
+#total{
+    background-color: black;
+    border: black solid 1px;
+    color: red;
+    width: 100px;
+    padding: 5px;
+}
+.box{
+    width: 180px;
+    height: 180px;
+    border: solid black 2px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background-color: white;
+}
+
+form.gold{
+    margin-top: 100px;
+}
+
+.activity{
+    width: 838px;
+    height: 150px;
+    margin-left: 30px;
+    border: solid black 2px;
+    background-color: lightblue;
+    overflow: auto;
+}
+
+form.reset{
+    margin-top: 8px;
+
+}
+
+.gain{
+    color: green;
+}
+
+.loss{
+    color: darkred;
+}
